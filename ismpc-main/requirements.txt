@@ -1,0 +1,17 @@
+da==0.0.2
+dartpy==0.1.0.post106
+fonttools==4.55.1
+kiwisolver==1.4.7
+numpy==1.21.5
+packaging==24.2
+pillow==11.0.0
+pip==24.3.1
+POT==0.8.0
+pyparsing==3.2.0
+pypi==2.1
+scipy==1.7.3
+setuptools==58.1.0
+six==1.16.0
+torch==1.10.1
+typing_extensions==4.12.2
+zipp==3.21.0
