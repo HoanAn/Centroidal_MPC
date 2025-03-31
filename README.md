@@ -5,4 +5,4 @@ The paper includes centroidal momentum in the COM dynamic model when formulating
 COM trajectory. Along with the MPC, an adaptive control term is introduced to handle external force
 disturbances and ensure the Lyapunov stabilily of the centroidal dynamics
 
-Distributor: An Nguyen, Laganà Lorenzo, Daniele Teni
+Distributor: HoanAn, DanieleTeni, Lore11Lag  
